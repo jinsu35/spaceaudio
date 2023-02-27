@@ -6,7 +6,7 @@ SpaceAudio translates a movie subtitle and produces a speech from it. It uses va
 I've created audio subtitles in 16 different languages for Avatar: The Way of Water and put them on the [website](https://www.spaceaudio.xyz).
 
 ## Installation
-You need python 3.9 and [ffmpeg](https://ffmpeg.org).
+You need python (3.8, 3.9, or 3.10) and [ffmpeg](https://ffmpeg.org).
 Also I recommend you have [Anaconda](https://www.anaconda.com).
 
 ## Usage
