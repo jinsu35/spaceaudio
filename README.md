@@ -9,6 +9,10 @@ I've created audio subtitles in 16 different languages for Avatar: The Way of Wa
 You need python (3.8, 3.9, or 3.10) and [ffmpeg](https://ffmpeg.org).
 Also I recommend you have [Anaconda](https://www.anaconda.com).
 
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 ```bash
 main.py -n <name> -p <pathToSubtitle> -l <language> -o <output>
